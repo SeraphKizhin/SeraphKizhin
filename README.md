@@ -11,10 +11,14 @@
 
 <br>
 
-## About Me
+<img src="about-me.svg" alt="About Me" width="400"/>
 **Kenji Ludivese**, ign: *Seraph* or *Seraph Kizhin*, currently a 3rd Year Computer Science student at Cebu Institute of Technology - University.
+<br><br>
 
-## Current Plans / Projects
+<img src="divider.svg" alt="Divider" width="800"/>
+<br><br>
+
+<img src="current-plan.svg" alt="Current Plan / Project" width="400"/>
 - Learning **C++** and **Python**
 - Making a **Godot** Desktop Singleplayer Game
 
