@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Light that Burns the Sky
+  <img src="title.svg" alt="Light that Burns the Sky" width="600"/>
   <p><i>3rd Year Computer Science</i></p>
 
   <a href="https://instagram.com/seraphkizhin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
