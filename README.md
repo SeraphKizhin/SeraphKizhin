@@ -1,7 +1,7 @@
 <div align="center">
   
-  <img src="title.svg" alt="Light that Burns the Sky" width="800"/>
-  <img src="divider2.svg" alt="Divider" width="400"/>
+  <img src="title.svg" alt="Light that Burns the Sky" width="750"/>
+  <img src="divider2.svg" alt="Divider" width="525"/>
   
   <br>
   <p><i>3rd Year Computer Science</i></p>
