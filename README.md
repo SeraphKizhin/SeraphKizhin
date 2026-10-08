@@ -3,7 +3,7 @@
   <img src="title.svg" alt="Light that Burns the Sky" width="750"/>
   <img src="divider2.svg" alt="Divider" width="525"/>
   
-  <br><br>
+  <br>
   <p><i>Socials</i></p>
 
   <a href="https://instagram.com/seraphkizhin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
