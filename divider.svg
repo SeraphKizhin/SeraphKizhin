@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="6">
+  <defs>
+    <linearGradient id="prismLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084f5">
+        <animate attributeName="stop-color" values="#c084f5; #a0d4ff; #f0ffb0; #ffb0c8; #c084f5" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#a0d4ff">
+        <animate attributeName="stop-color" values="#a0d4ff; #f0ffb0; #ffb0c8; #c084f5; #a0d4ff" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#f0ffb0">
+        <animate attributeName="stop-color" values="#f0ffb0; #ffb0c8; #c084f5; #a0d4ff; #f0ffb0" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="4" fill="url(#prismLine)" rx="2" />
+</svg>
